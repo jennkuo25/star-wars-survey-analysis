@@ -1,0 +1,1 @@
+This was an exploratory analysis performed on a Star Wars survey dataset published by FiveThirtyEight and inspired by their analysis published at https://fivethirtyeight.com/features/americas-favorite-star-wars-movies-and-least-favorite-characters/
